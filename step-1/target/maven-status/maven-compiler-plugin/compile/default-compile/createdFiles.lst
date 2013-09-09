@@ -1,0 +1,15 @@
+infra/config/EnvironmentConfig.class
+infra/repository/BookmarkRepositoryImpl.class
+infra/bootstrap/IntegrationBootstrap.class
+infra/config/LocalhostConfig.class
+infra/bootstrap/ApplicationBootstrap.class
+domain/Bookmark.class
+application/BookmarkService.class
+infra/bootstrap/LocalhostBootstrap.class
+infra/util/PropertyHelper.class
+infra/util/DataGenerator.class
+infra/config/ApplicationConfig.class
+infra/repository/BookmarkRepository.class
+infra/config/IntegrationConfig.class
+infra/bootstrap/ProductionBootstrap.class
+infra/config/ProductionConfig.class
